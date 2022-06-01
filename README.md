@@ -41,9 +41,9 @@
     <br />
     <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R/issues">Request Feature</a>
   </p>
 </div>
 
