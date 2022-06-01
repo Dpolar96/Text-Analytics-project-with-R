@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">
+  <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -36,10 +36,10 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dpolar96/Group-Text-Analytics-project-with-R">View Demo</a>
+    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R">View Demo</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
@@ -152,20 +152,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 Diego Polar - dpolar76@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Dpolar96/Text-Analytics-project-with-R](https://github.com/Dpolar96/Text-Analytics-project-with-R)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
