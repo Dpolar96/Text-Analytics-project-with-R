@@ -72,6 +72,10 @@
 </details>
 
 
+<!-- ABOUT THE PROJECT -->
+## About the project
+
+
 
 ### Built With
 
