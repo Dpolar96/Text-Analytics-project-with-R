@@ -1,4 +1,4 @@
-# Text-Analytics-project-with-R
+# Text-Analytics-Project-with-R
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -133,10 +133,8 @@ Project Link: [https://github.com/Dpolar96/Text-Analytics-project-with-R](https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Dpolar96/Text-Analytics-project-with-R.svg?style=for-the-badge
 [issues-url]: https://github.com/Dpolar96/Text-Analytics-project-with-R/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/diego-polar-velasquez-3bbbb9154/
 [product-screenshot]: images/screenshot.png
