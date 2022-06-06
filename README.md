@@ -64,8 +64,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -102,6 +100,9 @@ In order to run the code code from this project the following libraries are need
 * httr
 * tidyr
 * stringr
+
+
+### Installation
 
 In case these packages are not installed, please run the following lines of code.
   ```sh
