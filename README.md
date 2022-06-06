@@ -27,13 +27,12 @@
 <br />
 <div align="center">
   <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Twitter Text Analytics Project with R</h3>
 
   <p align="center">
-    project_description
+    Text Analytics in which through the use of the Twitter API, tweets were extracted and analyzed through R
     <br />
     <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
     <br />
@@ -75,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-
+This is an individual project in which through R, tweets were extracted and then underwent an NLP analysis, which included a Bigram Analysis, Sentiment Analysis, and TF-IDF. The topic choosen for this project was videogames more specifically MMORPG, the games choosen being World of Warcraft, Destiny 2, and Final Fantasy XIV, with the aim of comparing the 3 of them to determine which is the most popular as well discover any user insights.
 
 ### Built With
 
