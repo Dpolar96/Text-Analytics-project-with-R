@@ -37,7 +37,6 @@
     <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R">View Demo</a>
     ·
     <a href="https://github.com/Dpolar96/Text-Analytics-project-with-R/issues">Report Bug</a>
     ·
