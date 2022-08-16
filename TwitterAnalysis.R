@@ -30,6 +30,8 @@ custom_stop_words <- tribble(
 stop_words_rev <- stop_words %>% 
   bind_rows(custom_stop_words)
 
+auth_setup_default()
+
 destiny_df <- search_tweets(q = "DestinyTheGame", n = 5000,
                     lang = "en", since ='2018-01-01',
                     include_rts = FALSE)
