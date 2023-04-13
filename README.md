@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
-This is an individual project in which through R, tweets were extracted and then underwent an NLP analysis, which included a Bigram Analysis, Sentiment Analysis, and TF-IDF. The topic choosen for this project was videogames more specifically MMORPG, the games choosen being World of Warcraft, Destiny 2, and Final Fantasy XIV, with the aim of comparing the 3 of them to determine which is the most popular as well discover any user insights.
+This is an individual project in which through R, tweets were extracted and then underwent an NLP analysis, which included a Bigram Analysis, Sentiment Analysis, and TF-IDF. The topic chosen for this project was videogames more specifically MMORPG, the games chosen being World of Warcraft, Destiny 2, and Final Fantasy XIV, with the aim of comparing the 3 of them to determine which is the most popular as well discover any user insights.
 
 ### Built With
 
